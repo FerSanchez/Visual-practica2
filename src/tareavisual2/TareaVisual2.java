@@ -16,8 +16,11 @@ public class TareaVisual2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Form1 ejercicios= new Form1();
-        ejercicios.show();
+        //Form1 ejercicios= new Form1();
+        Form2 ejercicio4=new Form2();
+        //ejercicios.show();
+        ejercicio4.show();
+        
     }
     
 }
